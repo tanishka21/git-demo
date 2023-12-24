@@ -1,2 +1,3 @@
 # git-demo
-This repo is for my practice
+This repo is for my practice.
+Author- Tanishka
